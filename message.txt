@@ -80,7 +80,7 @@ local function PNHLOYF_fake_script() -- Toggle.LocalScript
 	end)
  
 	local settings = {
-		keybind = Enum.UserInputType.MouseButton2
+		keybind = Enum.UserInputType.MouseButton1
 	}
  
 	local UIS = game:GetService("UserInputService")
