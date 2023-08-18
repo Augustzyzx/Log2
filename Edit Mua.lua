@@ -344,7 +344,16 @@ DRR["2d"]["Name"] = [[DropShadow]];
 DRR["2d"]["BackgroundTransparency"] = 1;
 DRR["2d"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
 
-
+-- DrRay.MainBar.Logo
+DRR["2e"] = Instance.new("ImageLabel", DRR["28"]);
+DRR["2e"]["BorderSizePixel"] = 0;
+DRR["2e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["2e"]["Image"] = [[rbxassetid://14133403065]];
+DRR["2e"]["Size"] = UDim2.new(0.18741475045681, 0, 0.3247329592704773, 0);
+DRR["2e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+DRR["2e"]["Name"] = [[Logo]];
+DRR["2e"]["BackgroundTransparency"] = 1;
+DRR["2e"]["Position"] = UDim2.new(0.3991934061050415, 0, 0.33447495102882385, 0);
 
 -- DrRay.MainBar.Logo.UIGradient
 DRR["2f"] = Instance.new("UIGradient", DRR["2e"]);
