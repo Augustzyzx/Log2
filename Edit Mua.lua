@@ -66,7 +66,7 @@ DRR["8"]["ScaleType"] = Enum.ScaleType.Slice;
 DRR["8"]["ImageColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["8"]["ImageTransparency"] = 0.5;
 DRR["8"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
-DRR["8"]["Image"] = [[rbxassetid://6014261993]];
+DRR["8"]["Image"] = [[rbxassetid://14403848474]];
 DRR["8"]["Size"] = UDim2.new(1, 47, 1, 47);
 DRR["8"]["Name"] = [[DropShadow]];
 DRR["8"]["BackgroundTransparency"] = 1;
@@ -344,16 +344,7 @@ DRR["2d"]["Name"] = [[DropShadow]];
 DRR["2d"]["BackgroundTransparency"] = 1;
 DRR["2d"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
 
--- DrRay.MainBar.Logo
-DRR["2e"] = Instance.new("ImageLabel", DRR["28"]);
-DRR["2e"]["BorderSizePixel"] = 0;
-DRR["2e"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-DRR["2e"]["Image"] = [[rbxassetid://14133403065]];
-DRR["2e"]["Size"] = UDim2.new(0.18741475045681, 0, 0.3247329592704773, 0);
-DRR["2e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-DRR["2e"]["Name"] = [[Logo]];
-DRR["2e"]["BackgroundTransparency"] = 1;
-DRR["2e"]["Position"] = UDim2.new(0.3991934061050415, 0, 0.33447495102882385, 0);
+
 
 -- DrRay.MainBar.Logo.UIGradient
 DRR["2f"] = Instance.new("UIGradient", DRR["2e"]);
@@ -1046,7 +1037,7 @@ DRR["7c"]["TextSize"] = 14;
 DRR["7c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 DRR["7c"]["Size"] = UDim2.new(0.9656160473823547, 0, 0.26184046268463135, 0);
 DRR["7c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-DRR["7c"]["Text"] = [[Toggle I and O xd]];
+DRR["7c"]["Text"] = [[Uranium Hub the best Script]];
 DRR["7c"]["Name"] = [[Description]];
 DRR["7c"]["BackgroundTransparency"] = 1;
 DRR["7c"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0);
@@ -1054,7 +1045,7 @@ DRR["7c"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0
 -- DrRay.Folder.Toggle.Label
 DRR["7d"] = Instance.new("Frame", DRR["78"]);
 DRR["7d"]["BorderSizePixel"] = 0;
-DRR["7d"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 39);
+DRR["7d"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["7d"]["Size"] = UDim2.new(0.03868212550878525, 0, 0.42860323190689087, 0);
 DRR["7d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["7d"]["Position"] = UDim2.new(0.92550128698349, 0, 0.27990657091140747, 0);
