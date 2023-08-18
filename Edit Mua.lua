@@ -12,7 +12,7 @@ DRR["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 -- DrRay.TopBar
 DRR["2"] = Instance.new("Frame", DRR["1"]);
 DRR["2"]["BorderSizePixel"] = 0;
-DRR["2"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["2"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["2"]["LayoutOrder"] = 2;
 DRR["2"]["Size"] = UDim2.new(0.5404488444328308, 0, 0.1739015281200409, 0);
 DRR["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -80,7 +80,7 @@ DRR["9"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fr
 -- DrRay.TopBar.TopBar
 DRR["a"] = Instance.new("Frame", DRR["2"]);
 DRR["a"]["BorderSizePixel"] = 0;
-DRR["a"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["a"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["a"]["LayoutOrder"] = 2;
 DRR["a"]["Size"] = UDim2.new(0.9983566999435425, 0, 0.05511785298585892, 0);
 DRR["a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -105,7 +105,7 @@ DRR["c"]["Name"] = [[ProfileMenu]];
 DRR["d"] = Instance.new("ImageButton", DRR["c"]);
 DRR["d"]["BorderSizePixel"] = 0;
 DRR["d"]["AutoButtonColor"] = false;
-DRR["d"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["d"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["d"]["Size"] = UDim2.new(0.23481373488903046, 0, 0.682426393032074, 0);
 DRR["d"]["Name"] = [[PlayerProfile]];
 DRR["d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -123,7 +123,7 @@ DRR["f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fr
 -- DrRay.TopBar.ProfileMenu.PlayerProfile.ImageLabel
 DRR["10"] = Instance.new("ImageLabel", DRR["d"]);
 DRR["10"]["BorderSizePixel"] = 0;
-DRR["10"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["10"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["10"]["Size"] = UDim2.new(0.16644950211048126, 0, 0.8032786846160889, 0);
 DRR["10"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["10"]["Position"] = UDim2.new(0.03799999877810478, 0, 0.1420000046491623, 0);
@@ -173,7 +173,7 @@ DRR["16"]["PaddingLeft"] = UDim.new(0.014000000432133675, 0);
 DRR["17"] = Instance.new("ImageButton", DRR["c"]);
 DRR["17"]["BorderSizePixel"] = 0;
 DRR["17"]["AutoButtonColor"] = false;
-DRR["17"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["17"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["17"]["Size"] = UDim2.new(0.10328257083892822, 0, 0.682426393032074, 0);
 DRR["17"]["Name"] = [[Clock]];
 DRR["17"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -208,7 +208,7 @@ DRR["1a"]["Position"] = UDim2.new(0.21512815356254578, 0, 0.27320244908332825, 0
 DRR["1b"] = Instance.new("ImageButton", DRR["c"]);
 DRR["1b"]["BorderSizePixel"] = 0;
 DRR["1b"]["AutoButtonColor"] = false;
-DRR["1b"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["1b"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["1b"]["Size"] = UDim2.new(0.23481373488903046, 0, 0.682426393032074, 0);
 DRR["1b"]["Name"] = [[Title]];
 DRR["1b"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -244,7 +244,7 @@ DRR["1f"] = Instance.new("TextButton", DRR["2"]);
 DRR["1f"]["Active"] = false;
 DRR["1f"]["BorderSizePixel"] = 0;
 DRR["1f"]["AutoButtonColor"] = false;
-DRR["1f"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["1f"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["1f"]["Selectable"] = false;
 DRR["1f"]["Size"] = UDim2.new(0.08402203768491745, 0, 0.4803149402141571, 0);
 DRR["1f"]["Name"] = [[TopBarClose]];
@@ -264,7 +264,7 @@ DRR["21"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 -- DrRay.TopBar.TopBarClose.idk
 DRR["22"] = Instance.new("Frame", DRR["1f"]);
 DRR["22"]["BorderSizePixel"] = 0;
-DRR["22"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["22"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["22"]["Size"] = UDim2.new(0.2622910141944885, 0, 1, 0);
 DRR["22"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["22"]["Position"] = UDim2.new(0.000002001152552111307, 0, 0, 0);
@@ -301,7 +301,7 @@ DRR["27"]["AspectRatio"] = 5.724700927734375;
 -- DrRay.MainBar
 DRR["28"] = Instance.new("Frame", DRR["1"]);
 DRR["28"]["BorderSizePixel"] = 0;
-DRR["28"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["28"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["28"]["Size"] = UDim2.new(0.5404488444328308, 0, 0.5745577812194824, 0);
 DRR["28"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["28"]["Position"] = UDim2.new(0.23000000417232513, 0, -0.6119999885559082, 0);
@@ -391,7 +391,7 @@ DRR["32"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
 DRR["33"] = Instance.new("ImageButton", DRR["30"]);
 DRR["33"]["BorderSizePixel"] = 0;
 DRR["33"]["AutoButtonColor"] = false;
-DRR["33"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["33"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["33"]["Size"] = UDim2.new(0.19896680116653442, 0, 0.6315789818763733, 0);
 DRR["33"]["Name"] = [[TabButtonReserved]];
 DRR["33"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -467,7 +467,7 @@ DRR["3c"]["PaddingLeft"] = UDim.new(0.10999999940395355, 0);
 -- DrRay.Folder.Dropdown
 DRR["3d"] = Instance.new("Frame", DRR["30"]);
 DRR["3d"]["BorderSizePixel"] = 0;
-DRR["3d"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["3d"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["3d"]["BackgroundTransparency"] = 0.4000000059604645;
 DRR["3d"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
 DRR["3d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -522,7 +522,7 @@ DRR["41"]["Position"] = UDim2.new(0.011461317539215088, 0, 0.7547013759613037, 0
 -- DrRay.Folder.Dropdown.DropdownBar
 DRR["42"] = Instance.new("Frame", DRR["3d"]);
 DRR["42"]["BorderSizePixel"] = 0;
-DRR["42"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["42"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["42"]["LayoutOrder"] = 10;
 DRR["42"]["Size"] = UDim2.new(0.9684813618659973, 0, 0.29096919298171997, 0);
 DRR["42"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -540,7 +540,7 @@ DRR["44"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.Dropdown.DropdownBar.UIStroke
 DRR["45"] = Instance.new("UIStroke", DRR["42"]);
-DRR["45"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["45"]["Color"] = Color3.fromRGB(0,128,255);
 
 -- DrRay.Folder.Dropdown.DropdownBar.Icon
 DRR["46"] = Instance.new("ImageLabel", DRR["42"]);
@@ -578,7 +578,7 @@ DRR["48"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
 DRR["49"] = Instance.new("TextButton", DRR["42"]);
 DRR["49"]["BorderSizePixel"] = 0;
 DRR["49"]["AutoButtonColor"] = false;
-DRR["49"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["49"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["49"]["Selectable"] = false;
 DRR["49"]["Size"] = UDim2.new(1, 0, 1, 0);
 DRR["49"]["LayoutOrder"] = 10;
@@ -590,7 +590,7 @@ DRR["49"]["BackgroundTransparency"] = 1;
 -- DrRay.Folder.Dropdown.Box
 DRR["4a"] = Instance.new("Frame", DRR["3d"]);
 DRR["4a"]["BorderSizePixel"] = 0;
-DRR["4a"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["4a"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["4a"]["LayoutOrder"] = 10;
 DRR["4a"]["Size"] = UDim2.new(0.9700000286102295, 0, 0, 0);
 DRR["4a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -605,7 +605,7 @@ DRR["4b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.Dropdown.Box.UIStroke
 DRR["4c"] = Instance.new("UIStroke", DRR["4a"]);
-DRR["4c"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["4c"]["Color"] = Color3.fromRGB(0,128,255);
 
 -- DrRay.Folder.Dropdown.Box.UICorner
 DRR["4d"] = Instance.new("UICorner", DRR["4a"]);
@@ -635,7 +635,7 @@ DRR["4f"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
 DRR["50"] = Instance.new("Frame", DRR["30"]);
 DRR["50"]["Active"] = true;
 DRR["50"]["BorderSizePixel"] = 0;
-DRR["50"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["50"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["50"]["BackgroundTransparency"] = 0.4000000059604645;
 DRR["50"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
 DRR["50"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -690,7 +690,7 @@ DRR["54"]["Position"] = UDim2.new(0.012893982231616974, 0, 0.7092373967170715, 0
 DRR["55"] = Instance.new("Frame", DRR["50"]);
 DRR["55"]["Active"] = true;
 DRR["55"]["BorderSizePixel"] = 0;
-DRR["55"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["55"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["55"]["Size"] = UDim2.new(0.14899714291095734, 0, 0.29096919298171997, 0);
 DRR["55"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["55"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
@@ -707,7 +707,7 @@ DRR["57"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.Keybind.Bind.UIStroke
 DRR["58"] = Instance.new("UIStroke", DRR["55"]);
-DRR["58"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["58"]["Color"] = Color3.fromRGB(0,128,255);
 
 -- DrRay.Folder.Keybind.Bind.Button
 DRR["59"] = Instance.new("TextButton", DRR["55"]);
@@ -730,7 +730,7 @@ DRR["59"]["BackgroundTransparency"] = 0.9900000095367432;
 -- DrRay.Folder.Label
 DRR["5a"] = Instance.new("Frame", DRR["30"]);
 DRR["5a"]["BorderSizePixel"] = 0;
-DRR["5a"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["5a"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["5a"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.07873434573411942, 0);
 DRR["5a"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["5a"]["Position"] = UDim2.new(0.019283747300505638, 0, 0.01806684397161007, 0);
@@ -767,7 +767,7 @@ DRR["5d"]["Position"] = UDim2.new(0.018000036478042603, 0, 0.22100010514259338, 
 -- DrRay.Folder.Slider
 DRR["5e"] = Instance.new("Frame", DRR["30"]);
 DRR["5e"]["BorderSizePixel"] = 0;
-DRR["5e"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["5e"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["5e"]["BackgroundTransparency"] = 0.4000000059604645;
 DRR["5e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
 DRR["5e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -903,7 +903,7 @@ DRR["6d"]["Position"] = UDim2.new(0.015759311616420746, 0, 0.7274229526519775, 0
 -- DrRay.Folder.Textbox
 DRR["6e"] = Instance.new("Frame", DRR["30"]);
 DRR["6e"]["BorderSizePixel"] = 0;
-DRR["6e"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["6e"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["6e"]["BackgroundTransparency"] = 0.4000000059604645;
 DRR["6e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.2624756097793579, 0);
 DRR["6e"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -957,7 +957,7 @@ DRR["72"]["Position"] = UDim2.new(0.012893982231616974, 0, 0.7092373967170715, 0
 -- DrRay.Folder.Textbox.TextboxBar
 DRR["73"] = Instance.new("Frame", DRR["6e"]);
 DRR["73"]["BorderSizePixel"] = 0;
-DRR["73"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["73"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["73"]["Size"] = UDim2.new(0.9684813618659973, 0, 0.29096919298171997, 0);
 DRR["73"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["73"]["Position"] = UDim2.new(0.014326647855341434, 0, 0.34552592039108276, 0);
@@ -974,7 +974,7 @@ DRR["75"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.Textbox.TextboxBar.UIStroke
 DRR["76"] = Instance.new("UIStroke", DRR["73"]);
-DRR["76"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["76"]["Color"] = Color3.fromRGB(0,128,255);
 
 -- DrRay.Folder.Textbox.TextboxBar.ActualTextbox
 DRR["77"] = Instance.new("TextBox", DRR["73"]);
@@ -999,7 +999,7 @@ DRR["77"]["Name"] = [[ActualTextbox]];
 DRR["78"] = Instance.new("Frame", DRR["30"]);
 DRR["78"]["Active"] = true;
 DRR["78"]["BorderSizePixel"] = 0;
-DRR["78"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["78"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["78"]["BackgroundTransparency"] = 0.4000000059604645;
 DRR["78"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
 DRR["78"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
@@ -1072,14 +1072,14 @@ DRR["7f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.Toggle.Label.UIStroke
 DRR["80"] = Instance.new("UIStroke", DRR["7d"]);
-DRR["80"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["80"]["Color"] = Color3.fromRGB(0,128,255);
 DRR["80"]["Thickness"] = 2.4000000953674316;
 DRR["80"]["ApplyStrokeMode"] = Enum.ApplyStrokeMode.Border;
 
 -- DrRay.Folder.Toggle.Label.Label
 DRR["81"] = Instance.new("TextButton", DRR["7d"]);
 DRR["81"]["BorderSizePixel"] = 0;
-DRR["81"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["81"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["81"]["Selectable"] = false;
 DRR["81"]["Size"] = UDim2.new(1, 0, 1, 0);
 DRR["81"]["Name"] = [[Label]];
@@ -1101,7 +1101,7 @@ DRR["83"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 DRR["84"] = Instance.new("TextButton", DRR["30"]);
 DRR["84"]["BorderSizePixel"] = 0;
 DRR["84"]["AutoButtonColor"] = false;
-DRR["84"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["84"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["84"]["Selectable"] = false;
 DRR["84"]["Visible"] = false;
 DRR["84"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
@@ -1159,7 +1159,7 @@ DRR["88"]["Position"] = UDim2.new(0.011461318470537663, 0, 0.5852904319763184, 0
 DRR["89"] = Instance.new("TextButton", DRR["30"]);
 DRR["89"]["Active"] = false;
 DRR["89"]["BorderSizePixel"] = 0;
-DRR["89"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["89"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["89"]["Selectable"] = false;
 DRR["89"]["Visible"] = false;
 DRR["89"]["Size"] = UDim2.new(0.9995859265327454, 0, 0.17368526756763458, 0);
@@ -1178,7 +1178,7 @@ DRR["8b"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 
 -- DrRay.Folder.DropdownButton.UIStroke
 DRR["8c"] = Instance.new("UIStroke", DRR["89"]);
-DRR["8c"]["Color"] = Color3.fromRGB(255,0,0);
+DRR["8c"]["Color"] = Color3.fromRGB(0,128,255);
 
 -- DrRay.Folder.DropdownButton.name
 DRR["8d"] = Instance.new("TextLabel", DRR["89"]);
@@ -1200,7 +1200,7 @@ DRR["8d"]["Position"] = UDim2.new(0, 0, 0.21875, 0);
 DRR["8e"] = Instance.new("TextButton", DRR["1"]);
 DRR["8e"]["BorderSizePixel"] = 0;
 DRR["8e"]["AutoButtonColor"] = false;
-DRR["8e"]["BackgroundColor3"] = Color3.fromRGB(255,0,0);
+DRR["8e"]["BackgroundColor3"] = Color3.fromRGB(0,128,255);
 DRR["8e"]["Selectable"] = false;
 DRR["8e"]["Visible"] = false;
 DRR["8e"]["Size"] = UDim2.new(0.9614325165748596, 0, 0.15495234727859497, 0);
